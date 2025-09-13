@@ -1,2 +1,7 @@
 # 🐍 Python Projects
-This folder contains my Python projects for Data Analysis, Machine learning, and Agentic AI.
+
+This folder contains my Python projects focused on: 
+- Data Analysis
+- Machine learning
+- Deep Learning
+- Agentic AI.
