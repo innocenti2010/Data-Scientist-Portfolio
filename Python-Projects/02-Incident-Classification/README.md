@@ -13,7 +13,7 @@ Utilizza **DistilBERT** per Sequence Classification e include **data augmentatio
 - Addestrare un modello DistilBERT per classificare le segnalazioni.
 - Valutare il modello su un set di test.
 
-📁 Folder Structure
+## 🛠️ Struttura del progetto
 ---
 📁 02-Incident-Classification <br>
 ├── README.md <br>
