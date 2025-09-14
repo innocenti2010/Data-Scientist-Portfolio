@@ -18,9 +18,3 @@ Questo progetto implementa un **sistema di prenotazione** basato su **Agentic AI
 ├── notebook/ <br>                
 │   └── Booking_System.ipynb <br>
 
-## 🚀 Esecuzione
-1. Clona il repository.
-2. Installa le dipendenze indicate in `requirements.txt`.
-3. Esegui:
-   ```bash
-   python main.py
