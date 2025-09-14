@@ -1,13 +1,15 @@
-🌐 **Multi-AI agent Travel agency** ✈️ <br>
-Implementa un sistema multi-agent che simuli un'agenzia di viaggi. Il cliente può specificare la meta, il numero di notti, il budget totale, preferenze sulla tipologia di hotel (es. 4 stelle) e infine preferenze sulle attività da fare nella città di destinazione (visite ai musei, escursioni nella natura...). <br>
-L'agenzia di viaggi è composta da due operatori: un HotelExpertAgent, specializzato nella ricerca e selezione dell'hotel più adatto alle esigenze dell'utente, e un TravelExperienceAgent, specializzato nel consigliare all'utente le attività da svolgere durante il suo soggiorno. Per semplicità le informazioni sugli hotel e quelle sulle escursioni sono contenute in due file separati Hotel.md e Experiences.md, accessibili rispettivamente dall'HotelExpertAgent e dall'TravelExperienceAgent
+# 01 - Booking System 🏨✈️
 
-Puoi utilizzare un framework a scelta tra LangGraph, CrewAI e AutoGen.
+## 📌 Descrizione
+Questo progetto implementa un **sistema di prenotazione** basato su **Agentic AI**, in cui agenti specializzati collaborano per fornire all’utente un piano di viaggio personalizzato (hotel + esperienze).
+
+## 🎯 Obiettivi
+- Dimostrare l’uso di **framework per AI Agents** (LangGraph, CrewAI, AutoGen).
+- Integrare **tool di dominio** per la gestione di dati su hotel ed esperienze.
+- Coordinare più agenti per completare un flusso di prenotazione end‑to‑end.
 
 
-📁 Folder Structure
------
-
+## 🛠️ Struttura del progetto
 📁 01-Booking-System <br>
 ├── README.md <br>                
 ├── data/ <br>                 
@@ -15,3 +17,10 @@ Puoi utilizzare un framework a scelta tra LangGraph, CrewAI e AutoGen.
 │   └── Experiences.md <br>
 ├── notebook/ <br>                
 │   └── Booking_System.ipynb <br>
+
+## 🚀 Esecuzione
+1. Clona il repository.
+2. Installa le dipendenze indicate in `requirements.txt`.
+3. Esegui:
+   ```bash
+   python main.py
