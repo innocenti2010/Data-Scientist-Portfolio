@@ -14,7 +14,6 @@ Utilizza **DistilBERT** per Sequence Classification e include **data augmentatio
 - Valutare il modello su un set di test.
 
 ## 🛠️ Struttura del progetto
----
 📁 02-Incident-Classification <br>
 ├── README.md <br>
 ├── notebook/ <br>
