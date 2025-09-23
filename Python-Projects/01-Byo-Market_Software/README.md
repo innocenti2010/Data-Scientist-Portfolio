@@ -13,10 +13,10 @@ Il sistema consente di gestire il magazzino, registrare vendite, calcolare profi
 🛠️ **Struttura del progetto**  
 
 📁 01-BioMarket-Software  
-├── README.md # Documentazione del progetto
-├── biomarket.py # Codice principale del gestionale
-├── warehouse.json # Dati persistenti del magazzino
-├── sales.json # Dati persistenti delle vendite
+├── README.md # Documentazione del progetto <br>
+├── biomarket.py # Codice principale del gestionale <br>
+├── warehouse.json # Dati persistenti del magazzino <br>
+├── sales.json # Dati persistenti delle vendite <br>
 
 
 ⚡ **Funzionalità implementate**  
