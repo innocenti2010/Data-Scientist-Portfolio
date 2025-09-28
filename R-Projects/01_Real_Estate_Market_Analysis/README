@@ -1,18 +1,18 @@
-# Real Estate Market Analysis – Texas (2010–2014)
+**Real Estate Market Analysis – Texas (2010–2014)**
 
-## 📌 Descrizione
+📌 **Descrizione**
 Questo progetto fa parte del percorso del Master in Data Science & AI e ha l’obiettivo di analizzare il mercato immobiliare texano nel periodo **2010–2014** attraverso tecniche di statistica descrittiva e visualizzazione dati in R.
 
 ---
 
-## 📂 Contenuto della cartella
+📂 **Contenuto della cartella**
 - **Descriptive Statistic I Project. V.1.Rmd** → file sorgente RMarkdown con codice, analisi e commenti.  
 - **Descriptive Statistic I Project. V.1.html** → (opzionale) versione knit del progetto, pronta per la consultazione.  
 - **realestate_texas.csv** → dataset utilizzato per l’analisi.  
 
 ---
 
-## 🎯 Obiettivi del progetto
+🎯 **Obiettivi del progetto**
 - Esplorare e descrivere le variabili del dataset.  
 - Calcolare indici di posizione, variabilità e forma.  
 - Identificare le variabili con maggiore variabilità e asimmetria.  
@@ -25,7 +25,7 @@ Questo progetto fa parte del percorso del Master in Data Science & AI e ha l’o
 
 ---
 
-## 📊 Principali evidenze
+📊 **Principali evidenze**
 - **Stagionalità marcata**: picchi di vendite tra marzo e settembre.  
 - **Segmentazione netta**: Bryan‑College Station si posiziona nella fascia alta, Tyler domina per volumi, Beaumont è stabile ma poco efficiente, Wichita Falls mostra calo e prezzi bassi.  
 - **Variabilità**: massima per *volume* e *listings*.  
@@ -37,14 +37,14 @@ Questo progetto fa parte del percorso del Master in Data Science & AI e ha l’o
 
 ---
 
-## 🛠️ Tecnologie utilizzate
+🛠️ **Tecnologie utilizzate**
 - **R** (dplyr, ggplot2, knitr, moments)  
 - **RMarkdown** per la documentazione e l’esecuzione del codice  
 - **GitHub** per la condivisione del progetto  
 
 ---
 
-## 📌 Conclusioni
+📌 **Conclusioni**
 Le analisi confermano che le **dinamiche locali** devono guidare le strategie operative:  
 - Bryan‑College Station → aumentare i volumi mantenendo prezzi alti.  
 - Tyler → ottimizzare il pricing per aumentare i ricavi unitari.  
