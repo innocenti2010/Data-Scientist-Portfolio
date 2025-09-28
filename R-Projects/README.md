@@ -9,5 +9,5 @@ Each project includes code, datasets or links, and outputs.
 
 In particolar, R projects are focused on : 
 - Descriptive Statistics
-  > 01_Real_Estate_Market_Analysis
+  > 01_Real_Estate_Texas_Market_Analysis
 - Inferential Statistics 
