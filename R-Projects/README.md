@@ -7,7 +7,7 @@ This folder contains R projects focused on:
 
 Each project includes code, datasets or links, and outputs.
 
-In particolar, R projects are foscused on : 
+In particolar, R projects are focused on : 
 - Descriptive Statistics
- >  Real Estate Market Analysis – Texas (2010–2014)
+  > Real Estate Market Analysis – Texas (2010–2014)
 - Inferential Statistics 
