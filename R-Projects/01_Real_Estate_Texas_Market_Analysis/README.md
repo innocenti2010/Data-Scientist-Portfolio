@@ -6,8 +6,7 @@ Questo progetto fa parte del percorso del Master in Data Science & AI e ha l’o
 ---
 
 ## 📂 **Contenuto della cartella**
-- **Descriptive Statistic I Project. V.1.Rmd** → file sorgente RMarkdown con codice, analisi e commenti.  
-- **Descriptive Statistic I Project. V.1.html** → (opzionale) versione knit del progetto, pronta per la consultazione.  
+- **Descriptive Statistic I Project. V.1.md** → file sorgente RMarkdown con codice, analisi e commenti.  
 - **realestate_texas.csv** → dataset utilizzato per l’analisi.  
 
 ---
