@@ -5,6 +5,8 @@ This folder contains my Python projects focused on:
   > 01-Byo-Market-System
 - Machine learning
 - Deep Learning
+- Big Data :
+  >
 - Agentic AI :
   
   > 01-Booking-System <br>
