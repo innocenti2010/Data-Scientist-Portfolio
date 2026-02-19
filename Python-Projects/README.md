@@ -6,7 +6,7 @@ This folder contains my Python projects focused on:
 - Machine learning
 - Deep Learning
 - Big Data :
-  >
+  > 02-Wikipedia-text-classification-pyspark
 - Agentic AI :
   
   > 01-Booking-System <br>
