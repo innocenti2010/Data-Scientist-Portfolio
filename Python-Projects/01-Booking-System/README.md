@@ -1,4 +1,4 @@
-# 01 - Booking System 🏨✈️
+# Booking System 🏨✈️
 
 ## 📌 Descrizione
 Questo progetto implementa un **sistema di prenotazione** basato su **Agentic AI**, in cui agenti specializzati collaborano per fornire all’utente un piano di viaggio personalizzato (hotel + esperienze).
