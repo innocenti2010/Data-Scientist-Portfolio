@@ -1,7 +1,7 @@
 # 🐍 Python Projects
 
 This folder contains my Python projects focused on: 
-- Data Analysis :
+- Data Analysis / Python:
   > 01-Byo-Market-System
 - Machine learning
 - Deep Learning
