@@ -1,4 +1,4 @@
-# 01 - BioMarket Management System 🥦📊
+# BioMarket Management System 🥦📊
 
 📌 **Descrizione**  
 Questo progetto implementa un software gestionale da riga di comando per un negozio di prodotti vegani.  
