@@ -1,15 +1,5 @@
 #🧠 Generative AI Blog Generator
 
-###NLP Application with OpenAI API (Python)
-
-![Image](https://doimages.nyc3.cdn.digitaloceanspaces.com/008ArticleImages/NLP%20workflow.jpg)
-
-![Image](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/90b03b56-ddd1-4822-8314-9335194095a4/AI-Agents-1500px_by_1500px-001.jpg?fit=clip\&fm=jpg\&h=900\&q=75\&w=1400)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AJOC3Ln5_U5yRBq7ZYMyNFA.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1338/1%2APc5HukhGCwQnvvQIdJtF6g.png)
-
 ## 📌 Project Overview
 
 This project implements a **Generative AI application** in Python that produces blog-style paragraphs based on user-defined topics.
