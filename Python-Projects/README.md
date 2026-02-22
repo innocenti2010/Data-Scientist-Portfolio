@@ -3,6 +3,7 @@
 This folder contains my Python projects focused on: 
 - Data Analysis / Python:
   > 01-Byo-Market-System
+  > 02-Generate_Blog_with_OpenAI
 - Machine learning
 - Deep Learning
 - Big Data :
