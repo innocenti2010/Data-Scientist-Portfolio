@@ -1,129 +1,67 @@
-#🧠 Generative AI Blog Generator
-
-## 📌 Project Overview
-
-This project implements a **Generative AI application** in Python that produces blog-style paragraphs based on user-defined topics.
-
-The system leverages a GPT-based language model through API integration, demonstrating how **Natural Language Processing (NLP)** models can be embedded into real-world applications for automated content generation.
-
-The application is executed via Command Line Interface (CLI) and supports iterative prompt submission.
+# 🧠 Generative AI Blog Generator  
+### NLP Application using OpenAI API (Python CLI)
 
 ---
 
-## 🎯 Data Science Relevance
+## 📌 Project Overview
 
-This project showcases practical competencies in:
+This project implements a **Generative AI-based blog paragraph generator** using Python and the OpenAI API.
 
-* Prompt Engineering
-* Generative AI workflows
-* API-based ML model consumption
-* NLP text generation
-* Environment variable security management
-* Reproducible AI experimentation
+The system takes a user-defined topic as input and generates a structured paragraph using a GPT-based Large Language Model (LLM).  
+It demonstrates how **Natural Language Processing (NLP)** capabilities can be integrated into lightweight applications for automated content generation tasks.
 
-Although the model is externally hosted (OpenAI), this project demonstrates how a Data Scientist can integrate **pre-trained foundation models** into production-ready pipelines.
+The application runs via Command Line Interface (CLI) and supports iterative prompt-based interaction.
+
+---
+
+## 🎯 Data Science Context
+
+This project demonstrates the practical application of:
+
+- Generative AI systems  
+- Prompt Engineering  
+- NLP text generation pipelines  
+- API-based ML model consumption  
+- Model parameter tuning  
+- Secure environment variable handling  
+
+Although the language model is externally hosted, this implementation shows how a Data Scientist can integrate **pre-trained foundation models** into real-world applications.
 
 ---
 
 ## 🏗️ System Architecture
 
-**Input Layer**
+The application follows a simple input–processing–output pipeline:
 
-* User-defined topic via CLI
+### 🔹 Input Layer
+- User-defined topic via CLI
 
-**Processing Layer**
+### 🔹 Processing Layer
+- Prompt construction  
+- API request to GPT model  
+- Controlled text generation  
 
-* Prompt construction
-* API request to GPT model
-* Controlled text generation (temperature & token limits)
-
-**Output Layer**
-
-* Generated paragraph returned in terminal
+### 🔹 Output Layer
+- AI-generated paragraph returned to terminal  
 
 ---
 
 ## 🔬 Model Configuration
 
-The generation parameters include:
+The following parameters are used during text generation:
 
-| Parameter   | Value                  | Purpose                                          |
-| ----------- | ---------------------- | ------------------------------------------------ |
-| Model       | gpt-3.5-turbo-instruct | Text completion model                            |
-| max_tokens  | 400                    | Controls output length                           |
-| temperature | 0.3                    | Controls randomness (lower = more deterministic) |
+| Parameter     | Value                   | Description                        |
+|--------------|--------------------------|------------------------------------|
+| Model        | gpt-3.5-turbo-instruct   | Text completion model              |
+| max_tokens   | 400                      | Maximum output length              |
+| temperature  | 0.3                      | Controls generation randomness     |
 
-This configuration favors **controlled and consistent outputs**, suitable for structured blog-style content.
-
----
-
-## 🔐 Secure API Handling
-
-The project uses `.env` configuration to prevent API key exposure.
-
-```bash
-API_KEY=your_api_key_here
-```
-
-This follows best practices for secure deployment and version control hygiene.
+A lower temperature value ensures more deterministic and coherent outputs.
 
 ---
 
-## ▶️ Installation
+## 🔐 Secure API Key Management
 
-```bash
-git clone https://github.com/yourusername/ai-blog-generator.git
-cd ai-blog-generator
-pip install openai python-dotenv
-python main.py
-```
+To prevent API key exposure, environment variables are used.
 
----
-
-## 🧠 Core Function
-
-The main generation function:
-
-* Accepts a topic string
-* Dynamically builds a structured prompt
-* Calls the GPT completion endpoint
-* Extracts model output
-* Returns generated text
-
-This demonstrates integration of **large language models (LLMs)** into lightweight Python systems.
-
----
-
-## 📈 Possible Data Science Extensions
-
-To evolve this into a more advanced AI system:
-
-* Implement sentiment-controlled generation
-* Add topic classification before generation
-* Integrate embeddings for semantic similarity
-* Store outputs in a structured dataset for evaluation
-* Build automated evaluation metrics (BLEU, ROUGE)
-* Add experiment tracking (MLflow)
-* Deploy as REST API
-
----
-
-## 📊 Skills Demonstrated
-
-* Python development
-* Generative AI integration
-* NLP fundamentals
-* Model parameter tuning
-* Secure configuration management
-* Interactive CLI design
-
----
-
-## 🚀 Portfolio Positioning
-
-This project represents a practical example of:
-
-> Applying foundation models within software systems to automate human-like text production.
-
-It highlights the ability to operationalize AI — a core skill in modern Data Science and AI Engineering roles.
-
+Create a `.env` file in the root directory:
