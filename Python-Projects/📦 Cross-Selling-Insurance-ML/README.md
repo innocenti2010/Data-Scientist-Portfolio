@@ -15,8 +15,8 @@ The project was developed in **Python** using **Scikit‑Learn** and **Imbalance
 
 ---
 
-📒 To read the notebook in its original `.ipynb` format, open it in Google Colab:
-[Cross_Selling_ML.ipynb](https://colab.research.google.com/drive/1zoaLAINw9iL3S9anP8gggjSUE56zz4yu?usp=sharing)
+📒 To read the notebook in its original `.ipynb` format, open it in Google Colab :
+[Cross_Selling_ML.ipynb](https://colab.research.google.com/drive/1zoaLAINw9iL3S9anP8gggjSUE56zz4yu?usp=sharing) *
 
 ---
 
@@ -148,6 +148,9 @@ The most stable and interpretable model was:
 1. Open the `.py` file in Google Colab  
 2. Install required libraries if needed  
 3. Run all cells sequentially  
+
+*📒 To read the notebook in its original `.ipynb` format, open it in Google Colab :
+[Cross_Selling_ML.ipynb](https://colab.research.google.com/drive/1zoaLAINw9iL3S9anP8gggjSUE56zz4yu?usp=sharing) 
 
 ---
 
