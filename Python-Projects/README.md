@@ -11,6 +11,6 @@ This folder contains my Python projects focused on:
   > 02-Wikipedia-text-classification-pyspark
 - Agentic AI :
   
-  > 01-Booking-System <br>
+  > ✈️ Booking-System <br>
   > 02-Incident-Classification
 
