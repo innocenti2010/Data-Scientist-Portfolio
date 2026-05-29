@@ -15,6 +15,11 @@ The project was developed in **Python** using **Scikit‑Learn** and **Imbalance
 
 ---
 
+📒 To read the notebook in its original `.ipynb` format, open it in Google Colab:
+[Cross_Selling_ML.ipynb](https://colab.research.google.com/drive/1zoaLAINw9iL3S9anP8gggjSUE56zz4yu?usp=sharing)
+
+---
+
 ## 🧠 **Business / Analytical Objective**
 Predict whether an existing health‑insurance customer is likely to purchase an additional **vehicle insurance policy**.
 
@@ -117,7 +122,7 @@ The most stable and interpretable model was:
 ```
 📁 insurance-cross-selling-ml
 ├── README.md
-├── cross_selling_insurance.ipynb
+├── Cross_Selling_ML.py 
 ├── data/
 │   └── insurance_cross_sell.csv   (optional)
 └── images/
@@ -140,7 +145,7 @@ The most stable and interpretable model was:
 ---
 
 ## ⚙️ **How to Run**
-1. Open the `.ipynb` file in Google Colab  
+1. Open the `.py` file in Google Colab  
 2. Install required libraries if needed  
 3. Run all cells sequentially  
 
