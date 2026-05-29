@@ -151,7 +151,3 @@ This project demonstrates how Machine Learning can support **data‑driven marke
 
 It represents a practical application of classification techniques and class‑imbalance handling in a real‑world business scenario.
 
----
-
-Francesco, questo README è **pronto da incollare su GitHub** così com’è.  
-Vuoi anche la **versione italiana** oppure la **versione super‑breve** per la repo principale del portfolio?
