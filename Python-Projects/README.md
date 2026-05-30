@@ -2,7 +2,7 @@
 
 This folder contains my Python projects focused on: 
 - Data Analysis / Python:
-  > 01-Byo-Market-System  </br>
+  > 🥦 Byo-Market_Software  </br>
   > 02-Generate_Blog_with_OpenAI
 - Machine learning
   > 📦 Cross-Selling-Insurance-ML
