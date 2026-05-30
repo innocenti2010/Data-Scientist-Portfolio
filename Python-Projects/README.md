@@ -8,7 +8,7 @@ This folder contains my Python projects focused on:
   > 📦 Cross-Selling-Insurance-ML
 - Deep Learning
 - Big Data :
-  > 02-Wikipedia-text-classification-pyspark
+  > 📚  wikipedia-text-classification-pyspark
 - Agentic AI :
   
   > ✈️ Booking-System <br>
