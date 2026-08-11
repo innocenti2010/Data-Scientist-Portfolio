@@ -6,6 +6,7 @@ This folder contains my Python projects focused on:
   > 🤖 Generate_Blog_with_OpenAI
 - Machine learning
   > 📦 Cross-Selling-Insurance-ML
+  > 💳 Credit_Scoring_Prediction
 - Deep Learning
 - Big Data :
   > 📚  wikipedia-text-classification-pyspark
