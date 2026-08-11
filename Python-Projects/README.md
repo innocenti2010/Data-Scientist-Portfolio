@@ -5,7 +5,7 @@ This folder contains my Python projects focused on:
   > 🥦 Byo-Market_Software  </br>
   > 🤖 Generate_Blog_with_OpenAI
 - Machine learning
-  > 📦 Cross-Selling-Insurance-ML
+  > 📦 Cross-Selling-Insurance-ML </br>
   > 💳 Credit_Scoring_Prediction
 - Deep Learning
 - Big Data :
